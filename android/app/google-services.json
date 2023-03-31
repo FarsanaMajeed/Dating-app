@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "193262470810",
+    "project_id": "lovelife-99773",
+    "storage_bucket": "lovelife-99773.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193262470810:android:1fa1438de6fa3d703e4123",
+        "android_client_info": {
+          "package_name": "com.example.lovelife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193262470810-7j2cr25sonqkp1iiiiqidqttpdl8khfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lovelife",
+            "certificate_hash": "569f0ca21888d81b9864c163ffae06b382a3d85a"
+          }
+        },
+        {
+          "client_id": "193262470810-h96ngnrgl81jcvse3rosr151bm5j7aa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDamG7XXGOZQQy9nnSoI24lSXByAcJK2Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193262470810-h96ngnrgl81jcvse3rosr151bm5j7aa3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
